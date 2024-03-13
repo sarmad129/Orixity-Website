@@ -1,0 +1,48 @@
+export const services = [
+    {
+      slug: 'web-development',
+      title: 'Web Development',
+      tagline: "At Orixity, web development isn't just about code; it's about crafting immersive online experiences that leave lasting impressions. With over 7 years of expertise and a passionate team, we embark on every project as a journey of innovation, transforming ideas into pixel-perfect realities.",
+      heading: 'Creating Stunning Online Experiences',
+      description: "We specialize in building modern and responsive websites that seamlessly adapt to every device and screen size. Our approach blends creative design with robust functionality, resulting in websites that not only look captivating but also provide intuitive user experiences.",
+      description2:"From engaging landing pages that captivate visitors to comprehensive e-commerce platforms that streamline online transactions, our web development services cover a spectrum of needs. Our meticulous attention to detail ensures that every element, from layout to navigation, contributes to a cohesive and engaging whole.",
+      picturePath: '/images/portfolio/three/4.jpg',
+    },
+    {
+      slug: 'mobile-development',
+      title: 'Mobile Development',
+      tagline: "At Orixity, we specialize in crafting immersive and user-centric mobile applications that seamlessly integrate cutting-edge technologies. With a legacy of over 7 years and a team of passionate experts, we embark on each project as an opportunity to create digital wonders that redefine user experiences.",
+      heading: 'Crafting Innovative Mobile Experiences',
+      description: "We specialize in building modern and responsive websites that seamlessly adapt to every device and screen size. Our approach blends creative design with robust functionality, resulting in websites that not only look captivating but also provide intuitive user experiences.",
+      description2: "We understand that mobile apps need to be more than functional; they need to captivate and retain users. Our expertise lies not only in coding but in designing experiences that resonate. We meticulously architect navigation, prioritize usability, and ensure each interaction is a seamless delight.",
+      picturePath: '/images/portfolio/three/4.jpg',
+    },
+    {
+      slug: 'content-creation',
+      title: 'Content Creation',
+      tagline: "At Orixity - Our content creation services transcend words, weaving stories that resonate with audiences and amplify your brand's voice. With a legacy of over 7 years and a team of creative minds, we embark on each project as an opportunity to craft content that leaves a lasting impression.",
+      heading: 'Producing High-Quality Content',
+      description: "Our content creation process is a fusion of art and strategy. From meticulously researched blog posts to engaging social media campaigns, we specialize in tailoring content that speaks directly to your target audience. Our words are more than text; they're a bridge between your brand and its supporters.",
+      description2: "We understand the power of storytelling and its ability to connect. Whether it's an informative article that educates, a persuasive copy that converts, or an engaging story that entertains, our content team's expertise spans diverse genres, ensuring your message is communicated effectively.",
+      picturePath: '/images/portfolio/three/4.jpg',
+    },
+    {
+      slug: 'ui-ux-design',
+      title: 'UI/UX Design',
+      tagline: "At Orixity - Our UI/UX design services go beyond aesthetics, creating digital landscapes that delight users and elevate their interactions. With a legacy of over 7 years and a team of design enthusiasts, we embark on each project as a canvas for innovation, transforming ideas into visually stunning realities.",
+      heading: 'Elevating User Experience Design',
+      description: "User-centric design is at the heart of everything we create. From sleek mobile app interfaces to immersive website layouts, we specialize in crafting interfaces that seamlessly guide users while reflecting your brand identity. Our approach merges creativity with functionality to ensure every interaction is effortless",
+      description2: "We understand that aesthetics are more than skin-deep. Our UI/UX design process dives deep into user behavior, ensuring every element is strategically placed for maximum impact. Whether it's enhancing conversions, simplifying navigation, or creating memorable moments, our designs breathe life into pixels.",
+      picturePath: '/images/portfolio/three/4.jpg',
+    },
+    {
+      slug: 'social-media-marketing',
+      title: 'Social Media Marketing',
+      tagline: "At Orixity - Our expertise extends beyond posts and likes, encompassing strategic campaigns that amplify your brand's presence in the digital landscape. With a legacy of over 7 years and a team of social media enthusiasts, we embark on each project as an opportunity to create connections, spark conversations, and drive engagement.",
+      heading: 'Enhancing Your Social Media Reach',
+      description: "Social media is more than a platform; it's a gateway to your audience. Our social media marketing strategies blend creativity with data-driven insights, resulting in campaigns that not only capture attention but also drive meaningful interactions. Whether it's crafting compelling content or executing targeted ads, we help you stand out in the digital crowd.",
+      description2: "We understand that social media is a dynamic ecosystem that requires agility and innovation. Our team stays on top of trends, algorithms, and user behavior to ensure your brand remains relevant and impactful. We don't just follow trends; we set them, positioning your brand as a thought leader in your industry.",
+      picturePath: '/images/portfolio/three/4.jpg',
+    },
+  ];
+  
