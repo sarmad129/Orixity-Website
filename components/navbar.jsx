@@ -158,7 +158,7 @@ const navbar = () => {
                             <h3 style={{color:'#999fae', fontWeight:'bold'}} className="headingside">Contact</h3>
                             <div className="card-info">
                                 <ul className="info-list">
-                                    <li className="headingside2"><i className="icofont-phone" ></i> (123) 456 789 0</li>
+                                    <li className="headingside2"><i className="icofont-phone" ></i>+44 7462173031</li>
 									                  <li className="headingside2"><i className="icofont-send-mail"></i> <a>contact@orixity.com</a></li>
                                 </ul>
                             </div>
@@ -166,16 +166,16 @@ const navbar = () => {
             <div>
                             <h3 style={{color:'#999fae', fontWeight:'bold'}} className="headingside">Address</h3>
                             <div className="card-info">
-                                <p className="headingside2">741 New South Head Rd, Triple Bay SWFW 3148, New York</p>
+                                <p className="headingside2">Office No. 406, 4th Floor, Park, IT Incubation Center, Rd, Islamabad</p>
                             </div>
             </div>
             <div>
             <h3 style={{color:'#999fae', fontWeight:'bold'}} className="headingside">Socials</h3>
 
-                      <a href="#"><i className="icofont-facebook" style={{fontSize:26,marginRight:8}}></i></a>
-                      <a href="https://twitter.com/orixity" target="_blank"><i className="icofont-twitter" style={{fontSize:26,marginRight:8}}></i></a>
-                      <a href="https://www.linkedin.com/in/orixity-technologies-74612a285" target="_blank" style={{fontSize:26,marginRight:8}}><i className="icofont-linkedin"></i></a>
-                      <a href="#"><i className="icofont-instagram" style={{fontSize:26,marginRight:8}}></i></a>
+                      <a href="https://www.facebook.com/profile.php?id=100095410460630" target="_blank"><i className="icofont-facebook" style={{fontSize:26,marginRight:8}}></i></a>
+                      {/* <a href="https://twitter.com/orixity" target="_blank"><i className="icofont-twitter" style={{fontSize:26,marginRight:8}}></i></a> */}
+                      <a href="https://pk.linkedin.com/company/orixity" target="_blank" style={{fontSize:26,marginRight:8}}><i className="icofont-linkedin"></i></a>
+                      <a href="https://instagram.com/orixity.pk/" target="_blank"><i className="icofont-instagram" style={{fontSize:26,marginRight:8}}></i></a>
             </div>
             </div>
             

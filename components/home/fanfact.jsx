@@ -29,7 +29,7 @@ const fanfact = () => {
         window.addEventListener('scroll', () => {
             if (window.scrollY > 1825 && first) {
                 setFirst(false)
-                setState(1786)
+                setState(4000)
                 setState1(100)
                 setState2(20)
             } 
@@ -50,8 +50,6 @@ const fanfact = () => {
                                         <Odometer format="(,ddd).dd" 
                                         duration={1000} 
                                         value={state} />
-
-                                        k+
                                     </div>
                                     <h4 className="promo-title w-600 text-gradient">Completed Projects</h4>
                                 </div>

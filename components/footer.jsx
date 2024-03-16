@@ -50,10 +50,10 @@ const footer = () => {
                             </div>
                             <div className="col-xl-8 col-lg-8 col-md-8 col-12 aos-item"data-aos="fade-up" data-aos-duration="800" data-aos-once="true" >
                                 <div className="footer-copyright-social md-txt-right lg-txt-right xs-txt-center sm-txt-center md-mrt-0 mrt-30">
-                                    <a href="#"><i className="icofont-facebook"></i></a>
-                                    <a href="https://twitter.com/orixity" target="_blank"><i className="icofont-twitter"></i></a>
-                                    <a href="https://www.linkedin.com/in/orixity-technologies-74612a285" target="_blank"><i className="icofont-linkedin"></i></a>
-                                    <a href="#"><i className="icofont-instagram"></i></a>
+                                    <a href="https://www.facebook.com/profile.php?id=100095410460630" target='_blank'><i className="icofont-facebook"></i></a>
+                                    {/* <a href="https://twitter.com/orixity" target="_blank"><i className="icofont-twitter"></i></a> */}
+                                    <a href="https://pk.linkedin.com/company/orixity" target="_blank"><i className="icofont-linkedin"></i></a>
+                                    <a href="https://instagram.com/orixity.pk/" target="_blank"><i className="icofont-instagram"></i></a>
                                 </div>
                             </div>
                         </div>

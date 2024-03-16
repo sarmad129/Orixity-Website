@@ -27,7 +27,7 @@ const aboutblock = () => {
         window.addEventListener('scroll', () => {
             if (window.scrollY > 400 && first) {
                 setFirst(false)
-                setState1(20)
+                setState1(4000)
                 setState2(100)
             } 
         })
@@ -71,7 +71,6 @@ const aboutblock = () => {
                                                 <Odometer format="(,ddd).dd" 
                                                 duration={1000} 
                                                 value={state1} />
-                                                k+
                                             </div>
                                             <h4 className="promo-title w-600 color-primary">Completed Projects</h4>
                                         </div>

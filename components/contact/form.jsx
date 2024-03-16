@@ -99,7 +99,7 @@ const form = () => {
                             <h3 className="title">Contacts</h3>
                             <div className="card-info">
                                 <ul className="info-list">
-                                    <li><i className="icofont-phone"></i> (123) 456 789 0</li>
+                                    <li><i className="icofont-phone"></i>+44 7462173031</li>
 									<li><i className="icofont-send-mail"></i> <a href="#">contact@orixity.com</a></li>
                                 </ul>
                             </div>
@@ -108,6 +108,8 @@ const form = () => {
                             <h3 className="title">Address</h3>
                             <div className="card-info">
                                 <p>741 New South Head Rd, Triple Bay SWFW 3148, New York</p>
+                                <p>35 DALMARNOCK DRIVE GLASGOW G40 4LQ</p>
+                                <p>Office No. 406, 4th Floor, Park, IT Incubation Center, Rd, Islamabad</p>
                             </div>
                         </div>
                     </div>

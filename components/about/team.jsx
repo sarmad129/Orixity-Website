@@ -19,16 +19,16 @@ const team = () => {
                                     <div className="image"><img src="/images/team/1.png" alt="Team"/></div>
 									<ul className="social-status">
                                         <li>
-                                            <a href="#." className="facebook"><i className="icofont-facebook"></i></a>
+                                            <a href="https://www.facebook.com/profile.php?id=100095410460630" target='_blank' className="facebook"><i className="icofont-facebook"></i></a>
                                         </li>
-                                        <li>
+                                        {/* <li>
                                             <a href="#." className="twitter"><i className="icofont-twitter"></i></a>
+                                        </li> */}
+                                        <li>
+                                            <a href="https://pk.linkedin.com/company/orixity" target='_blank' className="linkedin"><i className="icofont-linkedin"></i></a>
                                         </li>
                                         <li>
-                                            <a href="#." className="linkedin"><i className="icofont-linkedin"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#." className="instagram"><i className="icofont-instagram"></i></a>
+                                            <a href="https://instagram.com/orixity.pk/" target='_blank' className="instagram"><i className="icofont-instagram"></i></a>
                                         </li>
                                     </ul>
 								</figure>
